@@ -16,7 +16,7 @@
   <h3 align="center">PASSWORD GENERATOR</h3>
 
   <p align="center">
-    Password Generator offers higher security to users by generating a random password, based on the users  preferences.
+    Password Generator offers higher security to users by generating a random password, based on the users preferences.
     <br />
     <br />
     <a href="https://github.com/baileymyers/Password-Generator"><strong>Explore the docs »</strong></a>
@@ -52,46 +52,30 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][Images\project-image.png]](https://baileymyers.github.io/Password-Generator/)
+<p align="center">
+  <a href="https://baileymyers.github.io/Password-Generator/">
+    <img src="Images\project-image.png" alt="picture of Password Generator" width="max" height="300px">
+  </a>
+  </p>
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`
+When working with sensitve data, security is extremely important. Employees should make it a priority to use a complex, hard-to-guess password.
 
+Password Generator makes this as easy as a click of a button.
 
 ### Built With
 
-* []()
-* []()
-* []()
-
-
-
+* [Javascript]
 <!-- GETTING STARTED -->
 ## Getting Started
 
 To get a local copy up and running follow these simple steps.
 
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-```sh
-npm install npm@latest -g
-```
-
 ### Installation
 
 1. Clone the repo
 ```sh
-git clone https://github.com/github_username/repo_name.git
+git clone https://github.com/baileymyers/Password-Generator.git
 ```
-2. Install NPM packages
-```sh
-npm install
-```
-
-
 
 <!-- USAGE EXAMPLES -->
 ## Usage
