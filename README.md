@@ -10,22 +10,23 @@
 <br />
 <p align="center">
   <a href="https://github.com/baileymyers/Password-Generator">
-    <img src="./Images/logo.jpg" alt="Logo" width="300" height="200">
+    <img src="./Images/logo.jpg" alt="Logo" width="max" height="600px">
   </a>
 
-  <h3 align="center">YOUR_TITLE</h3>
+  <h3 align="center">PASSWORD GENERATOR</h3>
 
   <p align="center">
-    YOUR_SHORT_DESCRIPTION
-    <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    Password Generator offers higher security to users by generating a random password, based on the users inputted preferences.
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/baileymyers/Password-Generator"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/baileymyers/Password-Generator">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/baileymyers/Password-Generator/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/baileymyers/Password-Generator/issues">Request Feature</a>
   </p>
 </p>
 
