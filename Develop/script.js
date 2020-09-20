@@ -1,17 +1,3 @@
-///////////////////////////////////////////////////////////////////////
-// PASSWORD GENERATOR
-//
-// * For this assignment, you will not be changing the HTML and CSS at all.
-//
-// * You will need a generatePassword function is called when the user
-//   clicks the Generate Password button.
-//
-// * You can create other functions that are called from within
-//   generatePassword
-//
-// * Gather user input with prompt's and confirm's
-
-
 function generatePassword() {
   var newpassword = "";
 
@@ -23,8 +9,13 @@ function generatePassword() {
     return alert("Please input a number between 8 and 128.");
   }
 
-  // If the User puts in a number, but it is not a number 8-128, they will receive an error alert
-  if (confirmLength < 8 && confirmLength > 128) {
+  // If the User puts in a number, but it is not a number > 8, they will receive an error alert
+  if (confirmLength < 8) {
+    return alert("Invalid response. Must be between 8 and 128 characters.")
+  }
+
+  // If the User puts in a number, but it is not a number < 128, they will receive an error alert
+  if (confirmLength > 128) {
     return alert("Invalid response. Must be between 8 and 128 characters.")
   }
 
@@ -61,7 +52,7 @@ function generatePassword() {
 
   // If all Confirms return false, User receives error alert message that at least one must be true to receive random password
   if (functionAr.length === 0) {
-    return alert("Must confirm at least one.")
+    return alert("Must confirm at least one character type.")
   }
 
   // If User confirms they want lowercase, a random lowercase letter is chosen
@@ -93,7 +84,7 @@ function generatePassword() {
     }
   }
 
-  // For Loop created to choose a random character (based on the User's preferences) for each character in the chosen password length
+  // For Loop created to choose a random character (based on the User's preferences) for each character in the specified password length
   for (var i = 0; i < confirmLength; i++) {
       var randomFunction = Math.floor(Math.random() * functionAr.length);
       var randomCharacter = functionAr[randomFunction]();
