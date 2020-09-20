@@ -53,8 +53,8 @@
 ## About The Project
 
 <p align="center">
-    
-  </p>
+    ![](Images\Password-Generator.gif)
+</p>
 
 When working with sensitve data, security is extremely important. Employees should make it a priority to use a complex, hard-to-guess password.
 
