@@ -54,7 +54,7 @@
 
 <p align="center">
   <a href="https://baileymyers.github.io/Password-Generator/">
-    <img src="Images\project-image.png" alt="picture of Password Generator" width="max" height="300px">
+    <img src="Images\project-image.png" alt="picture of Password Generator"">
   </a>
   </p>
 
