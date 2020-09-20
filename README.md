@@ -1,10 +1,10 @@
 # Password-Generator
 [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
+[![Forks][forks-shield]][https://github.com/baileymyers/Password-Generator/network/members]
+[![Stargazers][stars-shield]][https://github.com/baileymyers/Password-Generator/stargazers]
+[![Issues][issues-shield]][https://github.com/baileymyers/Password-Generator/issues]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/bailey-myers-9a39a3b8/]
 
 <!-- PROJECT LOGO -->
 <br />
@@ -16,7 +16,7 @@
   <h3 align="center">PASSWORD GENERATOR</h3>
 
   <p align="center">
-    Password Generator offers higher security to users by generating a random password, based on the users inputted preferences.
+    Password Generator offers higher security to users by generating a random password, based on the users  preferences.
     <br />
     <br />
     <a href="https://github.com/baileymyers/Password-Generator"><strong>Explore the docs »</strong></a>
@@ -52,7 +52,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][Images\project-image.png]](https://baileymyers.github.io/Password-Generator/)
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
