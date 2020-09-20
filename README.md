@@ -53,9 +53,7 @@
 ## About The Project
 
 <p align="center">
-  <a href="https://baileymyers.github.io/Password-Generator/">
-    <img src="Images\project-image.png" alt="picture of Password Generator"">
-  </a>
+    
   </p>
 
 When working with sensitve data, security is extremely important. Employees should make it a priority to use a complex, hard-to-guess password.
