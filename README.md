@@ -62,7 +62,7 @@ Password Generator makes this as easy as a click of a button.
 
 ### Built With
 
-* [Javascript]
+* Javascript
 <!-- GETTING STARTED -->
 ## Getting Started
 
@@ -72,22 +72,26 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo
 ```sh
-git clone https://github.com/baileymyers/Password-Generator.git
+git clone git@github.com:baileymyers/Password-Generator.git
 ```
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Password Generator can be used to quickly create complex passwords for any context:
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+* Employee Log-in
+* Social Media Accounts
+* Personal Email
+* And More
+
 
 
 
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/baileymyers/Password-Generator/issues) for a list of proposed features (and known issues).
 
 
 
@@ -107,25 +111,31 @@ Contributions are what make the open source community such an amazing place to b
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Copyright 2020 Bailey Myers
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Bailey Myers - baileymyers96@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://baileymyers.github.io/Password-Generator/](https://baileymyers.github.io/Password-Generator/)
 
 
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* []()
-* []()
-* []()
+* **Instructors:** Huge thank you to my Bootcamp instructor, John Young, and my tutor, Chris Baird - I'm so grateful for the knowledge you've both shared!
+* [Canva](https://www.canva.com/)
+* [Screencastify](https://www.screencastify.com/)
 
 
 
