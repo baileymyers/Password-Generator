@@ -10,7 +10,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/baileymyers/Password-Generator">
-    <img src="C:\Users\Bailey\Bootcamp_Projects\Password-Generator\Images\password-img.svg"  alt="Logo" width="80" height="80">
+    ![password image](Images\password-img.svg)
   </a>
 
   <h3 align="center">YOUR_TITLE</h3>
