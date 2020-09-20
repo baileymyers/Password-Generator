@@ -1,10 +1,4 @@
 # Password-Generator
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][https://github.com/baileymyers/Password-Generator/network/members]
-[![Stargazers][stars-shield]][https://github.com/baileymyers/Password-Generator/stargazers]
-[![Issues][issues-shield]][https://github.com/baileymyers/Password-Generator/issues]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/bailey-myers-9a39a3b8/]
 
 <!-- PROJECT LOGO -->
 <br />
@@ -134,8 +128,6 @@ Project Link: [https://baileymyers.github.io/Password-Generator/](https://bailey
 ## Acknowledgements
 
 * **Instructors:** Huge thank you to my Bootcamp instructor, John Young, and my tutor, Chris Baird - I'm so grateful for the knowledge you've both shared!
-* [Canva](https://www.canva.com/)
-* [Screencastify](https://www.screencastify.com/)
 
 
 
